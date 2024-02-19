@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="Creative Commons Attribution-NonCommercial-NoDerivs 4.0"
+
+[[mods]]
+modId="tippedarrowtweaks"
+version="1.0.0"
+displayName="TippedArrowTweaks"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://donmor.top/"
+authors="donmor"
+description='''
+Make tipped arrows with potion in brewing stand
+'''
+
+[[dependencies.tippedarrowtweaks]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

@@ -1,0 +1,46 @@
+{
+  "mod_elements": [
+    {
+      "name": "TippedArrowRecipe1",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "tipped_arrow_recipe_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/tippedarrowtweaks/recipes/brewing/TippedArrowRecipe1BrewingRecipe.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "tippedarrowtweaks",
+    "modName": "TippedArrowTweaks",
+    "version": "1.0.0",
+    "description": "Make tipped arrows with potion in brewing stand",
+    "author": "donmor",
+    "websiteURL": "https://donmor.top/",
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivs 4.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": true,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.tippedarrowtweaks",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}
